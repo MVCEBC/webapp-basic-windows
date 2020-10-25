@@ -41,7 +41,7 @@
             "type": "string",
             "defaultValue": "",
             "metadata": {
-                "description": "Optional Git Repo URL, if empty a 'hello worlds' app will be deploy from the Azure-Samples repo"
+                "description": "Optional Git Repo URL, if empty a 'hello world' app will be deploy from the Azure-Samples repo"
             }
         }
     },
