@@ -3,6 +3,7 @@ variables:
 
 trigger:
 - master
+- releases/*
 
 pool:
   vmImage: 'ubuntu-latest'
